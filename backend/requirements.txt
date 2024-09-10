@@ -1,0 +1,6 @@
+flask
+flask-cors
+langchain
+transformers
+torch
+python-dotenv
